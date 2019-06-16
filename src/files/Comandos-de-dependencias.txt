@@ -1,0 +1,8 @@
+Passos para o Front-end da aplicação com React
+
+Iniciar o projeto pelo terminal, usando template de projetos react: yarn create react-app frontend
+Iniciara aplicação pelo terminal: yarn start
+Trabalhar com rotas : yarn add react-router-dom
+Trabalhar com os dados reais vindos do servidor: yarn add axios
+Utilizar o socket.io do lado do client: yarn add socket.io-client
+
